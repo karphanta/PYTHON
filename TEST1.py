@@ -27,5 +27,6 @@ def otra_funcion():
 
     return 42
     return 77  # Código muertosssssss
+    return 88  # Código xxxxxx
 
 funcion_mala()
